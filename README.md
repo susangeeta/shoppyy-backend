@@ -1,5 +1,5 @@
 -Shoppyglobe-Backend
-Git Hub:- ("https://github.com/sravanKumar1211/-Shoppyglobe-Backend")
+Git Hub:- ("https://github.com/susangeeta/shoppyy-backend")
 
 🛍️ ShoppyGlobe – E-Commerce Backend API 📌 About the Project
 
@@ -19,7 +19,7 @@ ShoppyGlobe is a fully functional E-commerce Backend built using Node.js, Expres
 
 ✔ User Registration & Login ✔ Password Encryption (bcrypt) ✔ JWT Token Authentication ✔ Fetch All Products / Fetch Single Product ✔ Direct Data Inserted into MongoDB Atlas ✔ Add to Cart / Update Quantity / Remove Cart Item ✔ Get Cart with Product Details (populate) ✔ Centralized Error Handling ✔ Email Format Validation ✔ Atlas Access Enabled for Everyone (0.0.0.0/0)
 
-🧠 How to Run the Project 📌 1. Clone the Repository git clone https://github.com//Shoppyglobe-Backend.git
+🧠 How to Run the Project 📌 1. Clone the Repository git clone https://github.com/susangeeta/shoppyy-backend.git
 
 📌 1. Install Dependencies npm install
 
